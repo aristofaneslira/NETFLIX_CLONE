@@ -1,0 +1,1 @@
+Tentei recriar a interface da netflix, com orientação do professor foi utilizado html5, css3 e javascript. Aprendi um pouco sobre conteiners, flexbox, alguns plugins como o jquery. E varias dicas de sites uteis como o font awesome, etc.
